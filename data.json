@@ -1,0 +1,280 @@
+{
+  "hero": {
+    "badge": "Available for freelance & full-time",
+    "greeting": "Merhaba, ben",
+    "name": "Ege Efe",
+    "accentName": "Korkmaz",
+    "phrases": [
+      "Full Stack Developer",
+      "React & Node.js Uzmanı",
+      "Cloud Architecture Enthusiast",
+      "Open Source Contributor",
+      "UI/UX Odaklı Geliştirici"
+    ],
+    "stats": [
+      {
+        "num": "5",
+        "accent": "+",
+        "label": "yıl deneyim"
+      },
+      {
+        "num": "42",
+        "accent": "+",
+        "label": "tamamlanan proje"
+      },
+      {
+        "num": "12",
+        "accent": "k",
+        "label": "github commit"
+      },
+      {
+        "num": "∞",
+        "accent": "",
+        "label": "kahve / gün"
+      }
+    ],
+    "avatarText": "EK",
+    "avatarTag1": "Open to work",
+    "avatarTag2": "Full Stack 🚀"
+  },
+  "about": {
+    "title": "Kod yazan,<br><span class=\"accent\">problem çözen</span><br>insan.",
+    "paragraphs": [
+      "Full-stack developer olarak React, Node.js ve cloud mimarileri üzerine odaklanıyorum. Ölçeklenebilir, yüksek performanslı web uygulamaları geliştirme konusunda 5 yılı aşkın deneyimim var.",
+      "Temiz kod yazmak benim için bir tercih değil, bir zorunluluk. Her satır kodun sorumluluğunu üstleniyorum — production'da çalışmayan güzel kod güzel değildir.",
+      "Teknik çözümlerin ötesinde kullanıcı deneyimini merkeze alan, veri odaklı kararlar alan bir geliştirici olarak ürün düşüncesiyle yaklaşıyorum."
+    ],
+    "links": [
+      {
+        "icon": "⟨/⟩",
+        "text": "GitHub",
+        "url": "https://github.com"
+      },
+      {
+        "icon": "in",
+        "text": "LinkedIn",
+        "url": "https://linkedin.com"
+      }
+    ],
+    "values": [
+      {
+        "icon": "⚡",
+        "title": "Performans önce gelir",
+        "desc": "Core Web Vitals'a göre optimize edilmiş, Lighthouse 95+ skorlu uygulamalar."
+      },
+      {
+        "icon": "🏗️",
+        "title": "Temiz mimari",
+        "desc": "SOLID prensipleri, DRY kod ve test-driven development ile sürdürülebilir yapılar."
+      },
+      {
+        "icon": "🤝",
+        "title": "Ekip oyuncusu",
+        "desc": "PR review, pair programming ve teknik mentörlük konularında aktif katkı."
+      },
+      {
+        "icon": "📈",
+        "title": "Sürekli öğrenme",
+        "desc": "Her hafta en az bir yeni teknik konsept veya pattern keşfetmeyi hedefliyorum."
+      }
+    ]
+  },
+  "stack": {
+    "title": "Araçlarım &<br><span class=\"accent\">silahlarım</span>",
+    "subtitle": "Production'da aktif kullandığım teknolojiler — oyuncak proje değil, gerçek iş.",
+    "categories": [
+      {
+        "name": "Frontend",
+        "items": [
+          {
+            "name": "React 18",
+            "dot": "blue"
+          },
+          {
+            "name": "Next.js 14",
+            "dot": "blue"
+          },
+          {
+            "name": "TypeScript",
+            "dot": "blue"
+          },
+          {
+            "name": "Vue 3",
+            "dot": "yellow"
+          },
+          {
+            "name": "Tailwind CSS",
+            "dot": "mint"
+          },
+          {
+            "name": "Framer Motion",
+            "dot": "violet"
+          },
+          {
+            "name": "Zustand",
+            "dot": "blue"
+          },
+          {
+            "name": "React Query",
+            "dot": "mint"
+          }
+        ]
+      },
+      {
+        "name": "Backend",
+        "items": [
+          {
+            "name": "Node.js",
+            "dot": "mint"
+          },
+          {
+            "name": "Express",
+            "dot": "mint"
+          },
+          {
+            "name": "NestJS",
+            "dot": "mint"
+          },
+          {
+            "name": "Python",
+            "dot": "blue"
+          },
+          {
+            "name": "FastAPI",
+            "dot": "blue"
+          },
+          {
+            "name": "GraphQL",
+            "dot": "yellow"
+          },
+          {
+            "name": "REST API",
+            "dot": "peach"
+          },
+          {
+            "name": "WebSocket",
+            "dot": "violet"
+          }
+        ]
+      },
+      {
+        "name": "Database & Cloud",
+        "items": [
+          {
+            "name": "PostgreSQL",
+            "dot": "blue"
+          },
+          {
+            "name": "MongoDB",
+            "dot": "mint"
+          },
+          {
+            "name": "Redis",
+            "dot": "peach"
+          },
+          {
+            "name": "AWS (EC2/S3/RDS)",
+            "dot": "yellow"
+          },
+          {
+            "name": "Docker",
+            "dot": "blue"
+          },
+          {
+            "name": "Kubernetes",
+            "dot": "mint"
+          },
+          {
+            "name": "CI/CD (GitHub Actions)",
+            "dot": "violet"
+          },
+          {
+            "name": "Terraform",
+            "dot": "blue"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "num": "#002",
+      "icon": "📕",
+      "name": "Six-Times (geliştirme aşamasında)",
+      "desc": "6 sefer ezberleme metodu ile kelime ezberlemeye yardımcı olan uygulama.",
+      "tags": [
+        "TypeScript",
+        "OpenAI API",
+        "VSCode API"
+      ],
+      "links": [
+        {
+          "text": "↗ Marketplace",
+          "url": "#"
+        },
+        {
+          "text": "⟨/⟩ GitHub",
+          "url": "#"
+        }
+      ],
+      "color": "var(--violet)",
+      "featured": false
+    },
+    {
+      "num": "#003",
+      "icon": "🤖",
+      "name": "Hikaye_Olusturucu (geliştirme aşamasında)",
+      "desc": "LLM algoritmaları ile konudan sesli, altyazılı görselli, efektli video oluşturan uygulama",
+      "tags": [
+        "React",
+        "D3.js",
+        "FastAPI"
+      ],
+      "links": [
+        {
+          "text": "↗ Live Demo",
+          "url": "#"
+        },
+        {
+          "text": "⟨/⟩ GitHub",
+          "url": "#"
+        }
+      ],
+      "color": "var(--peach)",
+      "featured": false
+    },
+    {
+      "num": "#004",
+      "icon": "⛓️",
+      "name": "Tepegoz-Zindani",
+      "desc": "Java Console RPG Dungeon Game",
+      "tags": [
+        "Node.js",
+        "npm package",
+        "OAuth2"
+      ],
+      "links": [
+        {
+          "text": "↗ npm",
+          "url": "#"
+        },
+        {
+          "text": "⟨/⟩ GitHub",
+          "url": "#"
+        }
+      ],
+      "color": "#4EA7FF",
+      "featured": false
+    }
+  ],
+  "experience": [],
+  "contact": {
+    "title": "Bir sonraki<br>projen için<br><span class=\"accent\">konuşalım.</span>",
+    "subtitle": "Freelance iş, tam zamanlı pozisyon veya sadece bir merhaba demek istersen — her zaman buradayım.",
+    "email": "efege0906@gmail.com",
+    "linkedin": "www.linkedin.com/in/ege-efe-korkmaz-70b584345/",
+    "github": "github.com/EGF09",
+    "linkedinUrl": "https://linkedin.com",
+    "githubUrl": "https://github.com"
+  }
+}
